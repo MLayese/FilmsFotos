@@ -1,17 +1,17 @@
 # Site settings
 environment: production
-title:       Steven M. Ledbetter
-description: "The personal profile of Steven M. Ledbetter."
+title:       Film's Fotos
+description: "I'm Film. I take photos."
 baseurl:     "https://mlayese.github.io/FilmsFotos/"
 url:         ""
 date_format: "%b %-d, %Y"
 share-image: "/images/share.png"
-admin:      "Steven M. Ledbetter"
-admin_alias: "Coach Stevo"
+admin:      "Film"
+admin_alias: "Film"
 admin_email:    "smledbetter@pm.me"
-admin_title: "Behavior Change Nerd"
-admin_twitter: "thecoachstevo"
-admin_image: "boom-stevo-bw.jpg"
+admin_title: "Film"
+admin_twitter: "Film"
+admin_image: "IMG_1994.jpeg"
 admin_bio: "Helping people who know what to do, but can't make themselves do it since 2008."
 admin_city: "Emeryville"
 admin_state: "CA"
