@@ -2,8 +2,8 @@
 environment: production
 title:       Steven M. Ledbetter
 description: "The personal profile of Steven M. Ledbetter."
-baseurl:     ""
-url:         "https://mlayese.github.io/FilmsFotos/"
+baseurl:     "https://mlayese.github.io/FilmsFotos/"
+url:         ""
 date_format: "%b %-d, %Y"
 share-image: "/images/share.png"
 admin:      "Steven M. Ledbetter"
